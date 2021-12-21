@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
        
-    <body>
+    
 
 <h1>An Among Us Story</h1>
 <h2>Introduction
