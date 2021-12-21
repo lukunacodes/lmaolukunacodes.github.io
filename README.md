@@ -3,17 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>An Among Us Story</title>
-    </head>
-    <style>
-        
-        h1 {color: rgb(126, 131, 181);}
-        h2 {color: rgb(106, 106, 133);}
-        h3 {color: rgb(157, 163, 201);}
-        h1 {font-family:georgia;}
-         h2 {font-family:georgia;}
-          h3 {font-family:georgia;}
-    </style>
+       
     <body>
 
 <h1>An Among Us Story</h1>
@@ -92,8 +82,5 @@ Red: There are two Imposters. White could be sus. No one knows. It was a stack. 
     </h3>
     </body>
     
-    <style>
-   
-        
-    </style>
+  
 </html>
